@@ -1,0 +1,2 @@
+export const ADD_BASKET = 'BOOK/ADD_BASKET';
+export const CHANGE_CONTENT = 'NAV/CHANGE_CONTENT';
